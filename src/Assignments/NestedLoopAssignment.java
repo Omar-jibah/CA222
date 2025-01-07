@@ -1,7 +1,7 @@
 package Assignments;
 
 import java.util.Scanner;
-
+fatal: unable to access 'https://github.com/omarepc/CA222.git/': error setting certificate file: C:/Program Files/Git/mingw64/ssl/certs/cacert.pem
 public class NestedLoopAssignment {
     public static void main(String[] args) {
         // declare variables that hold
